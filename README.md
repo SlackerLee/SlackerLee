@@ -6,7 +6,7 @@ Software Developer, Front-end Developer
 
 I am a software developer and specialize in using Swift and Kotlin programming languages for mobile development, as well as JavaScript and the React library for website development. Currently, I am seeking opportunities in software development and am open to embracing any challenges that come my way.
 
-* 🌍  I'm based in Canada
+* 🌍🇨🇦 I'm based in Canada
 * 🧠  I'm learning Node.js, server-side development using Java, Flutter, and Python
 * 🤝  I'm open to collaborating on Projects
 
